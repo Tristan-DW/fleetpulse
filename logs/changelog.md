@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0001 | 2024-11-01T10:12:51Z
+Entry 0002 | 2024-11-01T15:04:48Z
 
-**Change:** test: write smoke tests for critical flows
-**Nonce:** 609574
+**Change:** chore: add pre-commit validation hooks
+**Nonce:** 810721

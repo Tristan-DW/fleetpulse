@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0003 | 2024-11-01T18:48:12Z
+Entry 0004 | 2024-11-04T12:18:03Z
 
-**Change:** feat: add audit trail to entity mutations
-**Nonce:** 902096
+**Change:** feat: build analytics widgets for dashboard
+**Nonce:** 598424

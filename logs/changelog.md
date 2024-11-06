@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0005 | 2024-11-05T10:36:28Z
+Entry 0006 | 2024-11-06T12:42:34Z
 
-**Change:** feat: implement real-time updates via WebSocket
-**Nonce:** 134281
+**Change:** perf: implement server-side pagination
+**Nonce:** 442809

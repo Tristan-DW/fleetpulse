@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0007 | 2024-11-07T18:34:56Z
+Entry 0008 | 2024-11-08T12:25:03Z
 
-**Change:** feat: implement export to CSV and PDF
-**Nonce:** 315609
+**Change:** fix: resolve startup race condition
+**Nonce:** 191074

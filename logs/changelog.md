@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0009 | 2024-11-08T15:57:03Z
+Entry 0010 | 2024-11-08T16:01:53Z
 
-**Change:** chore: configure Dependabot security updates
-**Nonce:** 902007
+**Change:** chore: set up CI/CD pipeline
+**Nonce:** 853628

@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0010 | 2024-11-08T16:01:53Z
+Entry 0011 | 2024-11-10T15:41:45Z
 
-**Change:** chore: set up CI/CD pipeline
-**Nonce:** 853628
+**Change:** perf: implement server-side pagination
+**Nonce:** 321251

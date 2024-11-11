@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0014 | 2024-11-11T15:40:24Z
+Entry 0015 | 2024-11-11T15:42:20Z
 
-**Change:** feat: implement core business logic
-**Nonce:** 692605
+**Change:** chore: upgrade runtime to latest LTS
+**Nonce:** 932634

@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0011 | 2024-11-10T15:41:45Z
+Entry 0012 | 2024-11-11T11:12:31Z
 
-**Change:** perf: implement server-side pagination
-**Nonce:** 321251
+**Change:** feat: bootstrap project scaffolding
+**Nonce:** 993285

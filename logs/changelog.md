@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0016 | 2024-11-12T12:28:51Z
+Entry 0017 | 2024-11-12T13:18:41Z
 
-**Change:** chore: document all environment variables
-**Nonce:** 431140
+**Change:** fix: correct permission check logic
+**Nonce:** 821829

@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0015 | 2024-11-11T15:42:20Z
+Entry 0016 | 2024-11-12T12:28:51Z
 
-**Change:** chore: upgrade runtime to latest LTS
-**Nonce:** 932634
+**Change:** chore: document all environment variables
+**Nonce:** 431140

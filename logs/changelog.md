@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0018 | 2024-11-13T14:36:41Z
+Entry 0019 | 2024-11-14T13:59:48Z
 
-**Change:** perf: add query result caching layer
-**Nonce:** 106337
+**Change:** fix: correct timestamp serialization format
+**Nonce:** 740059

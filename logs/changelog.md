@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0019 | 2024-11-14T13:59:48Z
+Entry 0020 | 2024-11-14T21:12:39Z
 
-**Change:** fix: correct timestamp serialization format
-**Nonce:** 740059
+**Change:** feat: implement notification service
+**Nonce:** 297841

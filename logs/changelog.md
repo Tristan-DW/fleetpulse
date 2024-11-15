@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0021 | 2024-11-15T08:12:11Z
+Entry 0022 | 2024-11-15T17:57:41Z
 
-**Change:** chore: configure linting and code formatting
-**Nonce:** 845736
+**Change:** feat: add authentication and session management
+**Nonce:** 215696

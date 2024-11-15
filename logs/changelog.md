@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0020 | 2024-11-14T21:12:39Z
+Entry 0021 | 2024-11-15T08:12:11Z
 
-**Change:** feat: implement notification service
-**Nonce:** 297841
+**Change:** chore: configure linting and code formatting
+**Nonce:** 845736

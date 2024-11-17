@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0022 | 2024-11-15T17:57:41Z
+Entry 0023 | 2024-11-17T10:18:53Z
 
-**Change:** feat: add authentication and session management
-**Nonce:** 215696
+**Change:** test: write smoke tests for critical flows
+**Nonce:** 882390

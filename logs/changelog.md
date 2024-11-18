@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0025 | 2024-11-18T18:48:38Z
+Entry 0026 | 2024-11-18T20:45:42Z
 
-**Change:** fix: resolve memory leak in event emitter
-**Nonce:** 505874
+**Change:** feat: implement search and filter endpoints
+**Nonce:** 756243

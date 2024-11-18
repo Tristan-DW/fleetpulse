@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0024 | 2024-11-18T16:51:57Z
+Entry 0025 | 2024-11-18T18:48:38Z
 
-**Change:** refactor: clean up legacy controller code
-**Nonce:** 277139
+**Change:** fix: resolve memory leak in event emitter
+**Nonce:** 505874

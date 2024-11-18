@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0023 | 2024-11-17T10:18:53Z
+Entry 0024 | 2024-11-18T16:51:57Z
 
-**Change:** test: write smoke tests for critical flows
-**Nonce:** 882390
+**Change:** refactor: clean up legacy controller code
+**Nonce:** 277139

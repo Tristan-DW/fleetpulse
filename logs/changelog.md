@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0027 | 2024-11-19T14:40:28Z
+Entry 0028 | 2024-11-19T15:54:20Z
 
-**Change:** refactor: standardize API response envelope
-**Nonce:** 520100
+**Change:** chore: document all environment variables
+**Nonce:** 222605

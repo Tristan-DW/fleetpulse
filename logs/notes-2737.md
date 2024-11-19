@@ -1,6 +1,6 @@
 # Notes
 
-feat: add missing null checks
+fix: edge case in request validation
 
-Timestamp: 2024-11-18T16:22:28Z
-Nonce: 211171
+Timestamp: 2024-11-19T12:01:43Z
+Nonce: 691507

@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0026 | 2024-11-18T20:45:42Z
+Entry 0027 | 2024-11-19T14:40:28Z
 
-**Change:** feat: implement search and filter endpoints
-**Nonce:** 756243
+**Change:** refactor: standardize API response envelope
+**Nonce:** 520100

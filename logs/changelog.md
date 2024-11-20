@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0028 | 2024-11-19T15:54:20Z
+Entry 0029 | 2024-11-20T13:58:11Z
 
-**Change:** chore: document all environment variables
-**Nonce:** 222605
+**Change:** refactor: introduce repository pattern
+**Nonce:** 875790

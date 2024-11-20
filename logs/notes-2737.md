@@ -1,6 +1,6 @@
 # Notes
 
-fix: edge case in request validation
+fix: correct default value handling
 
-Timestamp: 2024-11-19T12:01:43Z
-Nonce: 691507
+Timestamp: 2024-11-20T12:51:39Z
+Nonce: 591383

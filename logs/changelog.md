@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0034 | 2024-11-22T18:43:13Z
+Entry 0035 | 2024-11-22T21:27:21Z
 
-**Change:** feat: add audit trail to entity mutations
-**Nonce:** 949027
+**Change:** fix: correct order status state machine
+**Nonce:** 529627

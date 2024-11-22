@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0031 | 2024-11-22T10:11:00Z
+Entry 0032 | 2024-11-22T12:53:51Z
 
-**Change:** docs: initial README and setup guide
-**Nonce:** 685034
+**Change:** feat: add file upload and storage handling
+**Nonce:** 200802

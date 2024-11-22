@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0030 | 2024-11-21T09:19:35Z
+Entry 0031 | 2024-11-22T10:11:00Z
 
-**Change:** feat: implement core business logic
-**Nonce:** 551247
+**Change:** docs: initial README and setup guide
+**Nonce:** 685034

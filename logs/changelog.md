@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0037 | 2024-11-25T08:31:36Z
+Entry 0038 | 2024-11-25T09:34:32Z
 
-**Change:** feat: add authentication and session management
-**Nonce:** 877414
+**Change:** perf: implement server-side pagination
+**Nonce:** 558116

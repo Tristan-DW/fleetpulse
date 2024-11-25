@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0036 | 2024-11-23T13:28:04Z
+Entry 0037 | 2024-11-25T08:31:36Z
 
-**Change:** feat: build admin dashboard backend
-**Nonce:** 213282
+**Change:** feat: add authentication and session management
+**Nonce:** 877414

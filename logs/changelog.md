@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0040 | 2024-11-26T09:35:26Z
+Entry 0041 | 2024-11-26T12:48:27Z
 
-**Change:** refactor: restructure routing layer
-**Nonce:** 615688
+**Change:** feat: add authentication and session management
+**Nonce:** 230642

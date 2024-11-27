@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0041 | 2024-11-26T12:48:27Z
+Entry 0042 | 2024-11-27T11:11:58Z
 
-**Change:** feat: add authentication and session management
-**Nonce:** 230642
+**Change:** fix: handle token refresh edge case
+**Nonce:** 726988

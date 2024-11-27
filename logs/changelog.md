@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0044 | 2024-11-27T14:05:48Z
+Entry 0045 | 2024-11-27T15:28:01Z
 
-**Change:** chore: upgrade runtime to latest LTS
-**Nonce:** 406748
+**Change:** refactor: standardize API response envelope
+**Nonce:** 163852

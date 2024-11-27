@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0042 | 2024-11-27T11:11:58Z
+Entry 0043 | 2024-11-27T12:39:17Z
 
-**Change:** fix: handle token refresh edge case
-**Nonce:** 726988
+**Change:** chore: set up CI/CD pipeline
+**Nonce:** 971644

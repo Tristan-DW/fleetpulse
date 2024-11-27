@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0043 | 2024-11-27T12:39:17Z
+Entry 0044 | 2024-11-27T14:05:48Z
 
-**Change:** chore: set up CI/CD pipeline
-**Nonce:** 971644
+**Change:** chore: upgrade runtime to latest LTS
+**Nonce:** 406748

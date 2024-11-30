@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0048 | 2024-11-30T10:03:10Z
+Entry 0049 | 2024-11-30T12:12:13Z
 
-**Change:** docs: update API reference documentation
-**Nonce:** 636696
+**Change:** refactor: decouple data and presentation layers
+**Nonce:** 399102

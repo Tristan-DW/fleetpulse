@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0047 | 2024-11-28T11:50:40Z
+Entry 0048 | 2024-11-30T10:03:10Z
 
 **Change:** docs: update API reference documentation
-**Nonce:** 677437
+**Nonce:** 636696

@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0051 | 2024-11-30T21:24:53Z
+Entry 0052 | 2024-12-02T09:16:37Z
 
-**Change:** chore: add pre-commit validation hooks
-**Nonce:** 668242
+**Change:** chore: upgrade runtime to latest LTS
+**Nonce:** 407535

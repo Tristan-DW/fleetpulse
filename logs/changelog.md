@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0052 | 2024-12-02T09:16:37Z
+Entry 0053 | 2024-12-02T14:52:36Z
 
-**Change:** chore: upgrade runtime to latest LTS
-**Nonce:** 407535
+**Change:** feat: add transactional email templates
+**Nonce:** 291257

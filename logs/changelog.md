@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0053 | 2024-12-02T14:52:36Z
+Entry 0054 | 2024-12-03T11:19:19Z
 
-**Change:** feat: add transactional email templates
-**Nonce:** 291257
+**Change:** perf: implement server-side pagination
+**Nonce:** 114963

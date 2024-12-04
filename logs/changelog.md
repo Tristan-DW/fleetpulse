@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0056 | 2024-12-04T07:01:29Z
+Entry 0057 | 2024-12-04T15:55:28Z
 
-**Change:** feat: add file upload and storage handling
-**Nonce:** 552597
+**Change:** fix: resolve connection leak in pool
+**Nonce:** 901684

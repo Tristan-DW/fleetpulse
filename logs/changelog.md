@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0055 | 2024-12-03T13:33:26Z
+Entry 0056 | 2024-12-04T07:01:29Z
 
-**Change:** refactor: introduce repository pattern
-**Nonce:** 700369
+**Change:** feat: add file upload and storage handling
+**Nonce:** 552597

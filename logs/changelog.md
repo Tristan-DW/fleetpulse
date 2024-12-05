@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0057 | 2024-12-04T15:55:28Z
+Entry 0058 | 2024-12-05T20:12:37Z
 
-**Change:** fix: resolve connection leak in pool
-**Nonce:** 901684
+**Change:** test: end-to-end tests for checkout flow
+**Nonce:** 359558

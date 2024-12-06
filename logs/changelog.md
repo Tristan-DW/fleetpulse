@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0058 | 2024-12-05T20:12:37Z
+Entry 0059 | 2024-12-06T11:28:12Z
 
-**Change:** test: end-to-end tests for checkout flow
-**Nonce:** 359558
+**Change:** fix: resolve memory leak in event emitter
+**Nonce:** 569528

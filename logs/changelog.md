@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0059 | 2024-12-06T11:28:12Z
+Entry 0060 | 2024-12-07T10:17:58Z
 
-**Change:** fix: resolve memory leak in event emitter
-**Nonce:** 569528
+**Change:** test: write smoke tests for critical flows
+**Nonce:** 623847

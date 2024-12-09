@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0062 | 2024-12-07T13:28:26Z
+Entry 0063 | 2024-12-09T13:17:41Z
 
-**Change:** docs: initial README and setup guide
-**Nonce:** 260018
+**Change:** feat: integrate payment gateway
+**Nonce:** 771037

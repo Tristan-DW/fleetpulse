@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0063 | 2024-12-09T13:17:41Z
+Entry 0064 | 2024-12-09T14:57:16Z
 
-**Change:** feat: integrate payment gateway
-**Nonce:** 771037
+**Change:** feat: implement export to CSV and PDF
+**Nonce:** 208684

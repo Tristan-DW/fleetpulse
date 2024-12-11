@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0064 | 2024-12-09T14:57:16Z
+Entry 0065 | 2024-12-11T12:03:18Z
 
-**Change:** feat: implement export to CSV and PDF
-**Nonce:** 208684
+**Change:** perf: implement server-side pagination
+**Nonce:** 789505

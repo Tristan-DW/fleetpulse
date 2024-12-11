@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0065 | 2024-12-11T12:03:18Z
+Entry 0066 | 2024-12-11T17:57:47Z
 
-**Change:** perf: implement server-side pagination
-**Nonce:** 789505
+**Change:** feat: implement search and filter endpoints
+**Nonce:** 707210

@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0066 | 2024-12-11T17:57:47Z
+Entry 0067 | 2024-12-11T19:48:39Z
 
-**Change:** feat: implement search and filter endpoints
-**Nonce:** 707210
+**Change:** fix: correct decimal rounding in calculations
+**Nonce:** 354569

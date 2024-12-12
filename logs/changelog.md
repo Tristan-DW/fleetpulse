@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0069 | 2024-12-12T09:14:41Z
+Entry 0070 | 2024-12-12T11:19:39Z
 
-**Change:** fix: correct decimal rounding in calculations
-**Nonce:** 385980
+**Change:** chore: add pre-commit validation hooks
+**Nonce:** 211747

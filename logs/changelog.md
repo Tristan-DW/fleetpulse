@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0070 | 2024-12-12T11:19:39Z
+Entry 0071 | 2024-12-12T11:22:52Z
 
-**Change:** chore: add pre-commit validation hooks
-**Nonce:** 211747
+**Change:** fix: handle expired JWT tokens gracefully
+**Nonce:** 983150

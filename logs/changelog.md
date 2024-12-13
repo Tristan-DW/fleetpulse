@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0071 | 2024-12-12T11:22:52Z
+Entry 0072 | 2024-12-13T14:55:02Z
 
-**Change:** fix: handle expired JWT tokens gracefully
-**Nonce:** 983150
+**Change:** fix: resolve startup race condition
+**Nonce:** 202663

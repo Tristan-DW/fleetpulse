@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0072 | 2024-12-13T14:55:02Z
+Entry 0073 | 2024-12-13T15:39:25Z
 
-**Change:** fix: resolve startup race condition
-**Nonce:** 202663
+**Change:** feat: implement search and filter endpoints
+**Nonce:** 198325

@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0074 | 2024-12-13T16:31:18Z
+Entry 0075 | 2024-12-14T15:01:01Z
 
-**Change:** feat: build analytics widgets for dashboard
-**Nonce:** 650844
+**Change:** chore: set up CI/CD pipeline
+**Nonce:** 983321

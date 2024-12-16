@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0076 | 2024-12-16T10:05:01Z
+Entry 0077 | 2024-12-16T15:35:37Z
 
-**Change:** refactor: decouple data and presentation layers
-**Nonce:** 631530
+**Change:** feat: add file upload and storage handling
+**Nonce:** 116324

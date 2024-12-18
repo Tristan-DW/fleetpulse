@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0079 | 2024-12-18T14:38:28Z
+Entry 0080 | 2024-12-18T15:11:23Z
 
-**Change:** fix: sanitize all user-supplied input
-**Nonce:** 590567
+**Change:** fix: handle expired JWT tokens gracefully
+**Nonce:** 198244

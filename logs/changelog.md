@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0078 | 2024-12-18T07:07:30Z
+Entry 0079 | 2024-12-18T14:38:28Z
 
-**Change:** perf: precompute report aggregations
-**Nonce:** 904152
+**Change:** fix: sanitize all user-supplied input
+**Nonce:** 590567

@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0080 | 2024-12-18T15:11:23Z
+Entry 0081 | 2024-12-18T15:31:40Z
 
-**Change:** fix: handle expired JWT tokens gracefully
-**Nonce:** 198244
+**Change:** fix: correct order status state machine
+**Nonce:** 481276

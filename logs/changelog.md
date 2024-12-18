@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0077 | 2024-12-16T15:35:37Z
+Entry 0078 | 2024-12-18T07:07:30Z
 
-**Change:** feat: add file upload and storage handling
-**Nonce:** 116324
+**Change:** perf: precompute report aggregations
+**Nonce:** 904152

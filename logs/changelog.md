@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0082 | 2024-12-19T18:07:47Z
+Entry 0083 | 2024-12-20T09:16:52Z
 
-**Change:** refactor: restructure routing layer
-**Nonce:** 925449
+**Change:** docs: update API reference documentation
+**Nonce:** 105692

@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0083 | 2024-12-20T09:16:52Z
+Entry 0084 | 2024-12-20T15:56:56Z
 
-**Change:** docs: update API reference documentation
-**Nonce:** 105692
+**Change:** docs: initial README and setup guide
+**Nonce:** 501519

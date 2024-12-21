@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0084 | 2024-12-20T15:56:56Z
+Entry 0085 | 2024-12-21T11:10:57Z
 
-**Change:** docs: initial README and setup guide
-**Nonce:** 501519
+**Change:** feat: implement notification service
+**Nonce:** 363233

@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0086 | 2024-12-23T12:27:16Z
+Entry 0087 | 2024-12-23T12:45:16Z
 
-**Change:** fix: address reflected XSS in output layer
-**Nonce:** 775377
+**Change:** chore: configure Dependabot security updates
+**Nonce:** 422877

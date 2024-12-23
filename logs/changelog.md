@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0088 | 2024-12-23T13:42:12Z
+Entry 0089 | 2024-12-23T15:23:51Z
 
-**Change:** chore: upgrade runtime to latest LTS
-**Nonce:** 477410
+**Change:** feat: implement notification service
+**Nonce:** 319393

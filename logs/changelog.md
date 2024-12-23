@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0087 | 2024-12-23T12:45:16Z
+Entry 0088 | 2024-12-23T13:42:12Z
 
-**Change:** chore: configure Dependabot security updates
-**Nonce:** 422877
+**Change:** chore: upgrade runtime to latest LTS
+**Nonce:** 477410

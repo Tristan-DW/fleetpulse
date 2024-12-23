@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0089 | 2024-12-23T15:23:51Z
+Entry 0090 | 2024-12-23T18:36:50Z
 
-**Change:** feat: implement notification service
-**Nonce:** 319393
+**Change:** test: write smoke tests for critical flows
+**Nonce:** 455796

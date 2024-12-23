@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0085 | 2024-12-21T11:10:57Z
+Entry 0086 | 2024-12-23T12:27:16Z
 
-**Change:** feat: implement notification service
-**Nonce:** 363233
+**Change:** fix: address reflected XSS in output layer
+**Nonce:** 775377

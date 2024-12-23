@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0091 | 2024-12-23T18:50:41Z
+Entry 0092 | 2024-12-23T21:26:31Z
 
-**Change:** docs: update API reference documentation
-**Nonce:** 632946
+**Change:** feat: add authentication and session management
+**Nonce:** 526716

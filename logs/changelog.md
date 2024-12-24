@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0094 | 2024-12-24T17:10:14Z
+Entry 0095 | 2024-12-24T21:07:35Z
 
-**Change:** fix: sanitize all user-supplied input
-**Nonce:** 307292
+**Change:** perf: add query result caching layer
+**Nonce:** 658964

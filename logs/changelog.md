@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0093 | 2024-12-24T16:50:25Z
+Entry 0094 | 2024-12-24T17:10:14Z
 
-**Change:** feat: build admin dashboard backend
-**Nonce:** 321781
+**Change:** fix: sanitize all user-supplied input
+**Nonce:** 307292

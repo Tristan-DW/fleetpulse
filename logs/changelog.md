@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0096 | 2024-12-25T13:23:45Z
+Entry 0097 | 2024-12-25T14:50:21Z
 
-**Change:** fix: correct permission check logic
-**Nonce:** 444941
+**Change:** test: end-to-end tests for checkout flow
+**Nonce:** 330489

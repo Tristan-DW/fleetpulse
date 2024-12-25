@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0095 | 2024-12-24T21:07:35Z
+Entry 0096 | 2024-12-25T13:23:45Z
 
-**Change:** perf: add query result caching layer
-**Nonce:** 658964
+**Change:** fix: correct permission check logic
+**Nonce:** 444941

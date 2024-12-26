@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0097 | 2024-12-25T14:50:21Z
+Entry 0098 | 2024-12-26T11:15:50Z
 
-**Change:** test: end-to-end tests for checkout flow
-**Nonce:** 330489
+**Change:** chore: document all environment variables
+**Nonce:** 770453

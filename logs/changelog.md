@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0100 | 2024-12-26T18:00:49Z
+Entry 0101 | 2024-12-26T18:26:37Z
 
-**Change:** feat: add audit trail to entity mutations
-**Nonce:** 140002
+**Change:** fix: handle expired JWT tokens gracefully
+**Nonce:** 807971

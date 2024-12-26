@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0098 | 2024-12-26T11:15:50Z
+Entry 0099 | 2024-12-26T13:05:38Z
 
-**Change:** chore: document all environment variables
-**Nonce:** 770453
+**Change:** fix: resolve startup race condition
+**Nonce:** 853892

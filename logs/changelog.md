@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0101 | 2024-12-26T18:26:37Z
+Entry 0102 | 2024-12-28T21:18:18Z
 
-**Change:** fix: handle expired JWT tokens gracefully
-**Nonce:** 807971
+**Change:** fix: handle token refresh edge case
+**Nonce:** 226314

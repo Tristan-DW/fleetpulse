@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0104 | 2024-12-29T20:37:01Z
+Entry 0105 | 2024-12-30T17:04:40Z
 
-**Change:** fix: correct decimal rounding in calculations
-**Nonce:** 133101
+**Change:** refactor: clean up legacy controller code
+**Nonce:** 435125

@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0107 | 2024-12-31T13:21:30Z
+Entry 0108 | 2024-12-31T14:07:38Z
 
-**Change:** refactor: decouple data and presentation layers
-**Nonce:** 436856
+**Change:** chore: upgrade runtime to latest LTS
+**Nonce:** 992560

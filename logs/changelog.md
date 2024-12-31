@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0106 | 2024-12-30T17:54:19Z
+Entry 0107 | 2024-12-31T13:21:30Z
 
-**Change:** feat: bootstrap project scaffolding
-**Nonce:** 946845
+**Change:** refactor: decouple data and presentation layers
+**Nonce:** 436856

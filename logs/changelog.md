@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0109 | 2025-01-02T11:14:14Z
+Entry 0110 | 2025-01-02T12:57:28Z
 
-**Change:** feat: build analytics widgets for dashboard
-**Nonce:** 909571
+**Change:** fix: correct permission check logic
+**Nonce:** 501537

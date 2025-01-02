@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0110 | 2025-01-02T12:57:28Z
+Entry 0111 | 2025-01-02T13:27:59Z
 
-**Change:** fix: correct permission check logic
-**Nonce:** 501537
+**Change:** feat: implement real-time updates via WebSocket
+**Nonce:** 374939

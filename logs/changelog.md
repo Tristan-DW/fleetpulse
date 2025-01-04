@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0113 | 2025-01-04T09:53:22Z
+Entry 0114 | 2025-01-04T09:53:44Z
 
-**Change:** fix: address reflected XSS in output layer
-**Nonce:** 651088
+**Change:** refactor: standardize API response envelope
+**Nonce:** 437604

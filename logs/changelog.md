@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0112 | 2025-01-04T07:04:48Z
+Entry 0113 | 2025-01-04T09:53:22Z
 
-**Change:** feat: bootstrap project scaffolding
-**Nonce:** 521812
+**Change:** fix: address reflected XSS in output layer
+**Nonce:** 651088

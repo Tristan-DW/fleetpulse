@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0115 | 2025-01-06T11:52:57Z
+Entry 0116 | 2025-01-06T11:53:11Z
 
-**Change:** test: add regression tests for known bugs
-**Nonce:** 415727
+**Change:** fix: resolve memory leak in event emitter
+**Nonce:** 178626

@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0114 | 2025-01-04T09:53:44Z
+Entry 0115 | 2025-01-06T11:52:57Z
 
-**Change:** refactor: standardize API response envelope
-**Nonce:** 437604
+**Change:** test: add regression tests for known bugs
+**Nonce:** 415727

@@ -1,6 +1,6 @@
 # Notes
 
-docs: update inline comments
+fix: correct response envelope format
 
-Timestamp: 2025-01-01T12:34:56Z
-Nonce: 335925
+Timestamp: 2025-01-06T17:36:24Z
+Nonce: 227060

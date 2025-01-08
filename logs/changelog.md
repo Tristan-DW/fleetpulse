@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0116 | 2025-01-06T11:53:11Z
+Entry 0117 | 2025-01-08T14:22:37Z
 
-**Change:** fix: resolve memory leak in event emitter
-**Nonce:** 178626
+**Change:** chore: add pre-commit validation hooks
+**Nonce:** 290830

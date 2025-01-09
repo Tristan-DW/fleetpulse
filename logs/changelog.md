@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0120 | 2025-01-09T14:48:53Z
+Entry 0121 | 2025-01-09T17:34:35Z
 
-**Change:** refactor: restructure routing layer
-**Nonce:** 137727
+**Change:** refactor: clean up legacy controller code
+**Nonce:** 723610

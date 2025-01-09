@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0119 | 2025-01-09T14:44:48Z
+Entry 0120 | 2025-01-09T14:48:53Z
 
-**Change:** perf: reduce initial bundle size
-**Nonce:** 264301
+**Change:** refactor: restructure routing layer
+**Nonce:** 137727

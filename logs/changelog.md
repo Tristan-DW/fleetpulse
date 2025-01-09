@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0117 | 2025-01-08T14:22:37Z
+Entry 0118 | 2025-01-09T11:18:24Z
 
-**Change:** chore: add pre-commit validation hooks
-**Nonce:** 290830
+**Change:** chore: document all environment variables
+**Nonce:** 115560

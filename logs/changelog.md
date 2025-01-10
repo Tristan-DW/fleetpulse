@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0123 | 2025-01-10T12:15:56Z
+Entry 0124 | 2025-01-10T17:27:12Z
 
-**Change:** feat: build admin dashboard backend
-**Nonce:** 261961
+**Change:** feat: add user management module
+**Nonce:** 210377

@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0122 | 2025-01-09T18:33:12Z
+Entry 0123 | 2025-01-10T12:15:56Z
 
-**Change:** test: write smoke tests for critical flows
-**Nonce:** 389408
+**Change:** feat: build admin dashboard backend
+**Nonce:** 261961

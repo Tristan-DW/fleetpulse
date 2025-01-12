@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0125 | 2025-01-12T09:08:49Z
+Entry 0126 | 2025-01-12T11:02:24Z
 
-**Change:** feat: add audit trail to entity mutations
-**Nonce:** 747563
+**Change:** fix: resolve startup race condition
+**Nonce:** 860681

@@ -1,6 +1,6 @@
 # Notes
 
-fix: correct response envelope format
+fix: prevent duplicate submissions
 
-Timestamp: 2025-01-06T17:36:24Z
-Nonce: 227060
+Timestamp: 2025-01-13T14:16:27Z
+Nonce: 469487

@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0126 | 2025-01-12T11:02:24Z
+Entry 0127 | 2025-01-14T18:04:42Z
 
-**Change:** fix: resolve startup race condition
-**Nonce:** 860681
+**Change:** perf: add query result caching layer
+**Nonce:** 906641

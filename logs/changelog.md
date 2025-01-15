@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0127 | 2025-01-14T18:04:42Z
+Entry 0128 | 2025-01-15T13:43:08Z
 
-**Change:** perf: add query result caching layer
-**Nonce:** 906641
+**Change:** feat: implement search and filter endpoints
+**Nonce:** 343009

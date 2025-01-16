@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0128 | 2025-01-15T13:43:08Z
+Entry 0129 | 2025-01-16T12:14:26Z
 
-**Change:** feat: implement search and filter endpoints
-**Nonce:** 343009
+**Change:** feat: implement real-time updates via WebSocket
+**Nonce:** 697483

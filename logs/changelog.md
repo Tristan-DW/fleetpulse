@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0129 | 2025-01-16T12:14:26Z
+Entry 0130 | 2025-01-17T19:13:34Z
 
-**Change:** feat: implement real-time updates via WebSocket
-**Nonce:** 697483
+**Change:** fix: sanitize all user-supplied input
+**Nonce:** 630923

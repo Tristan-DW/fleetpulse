@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0130 | 2025-01-17T19:13:34Z
+Entry 0131 | 2025-01-19T16:45:58Z
 
-**Change:** fix: sanitize all user-supplied input
-**Nonce:** 630923
+**Change:** feat: implement search and filter endpoints
+**Nonce:** 927357

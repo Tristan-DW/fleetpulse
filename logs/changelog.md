@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0132 | 2025-01-20T09:10:56Z
+Entry 0133 | 2025-01-20T10:58:21Z
 
-**Change:** fix: correct database migration order
-**Nonce:** 776106
+**Change:** refactor: introduce repository pattern
+**Nonce:** 829285

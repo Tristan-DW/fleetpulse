@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0131 | 2025-01-19T16:45:58Z
+Entry 0132 | 2025-01-20T09:10:56Z
 
-**Change:** feat: implement search and filter endpoints
-**Nonce:** 927357
+**Change:** fix: correct database migration order
+**Nonce:** 776106

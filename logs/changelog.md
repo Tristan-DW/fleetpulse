@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0133 | 2025-01-20T10:58:21Z
+Entry 0134 | 2025-01-20T12:46:54Z
 
-**Change:** refactor: introduce repository pattern
-**Nonce:** 829285
+**Change:** feat: add authentication and session management
+**Nonce:** 545837

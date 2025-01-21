@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0136 | 2025-01-20T14:31:01Z
+Entry 0137 | 2025-01-21T11:09:52Z
 
-**Change:** refactor: move constants to centralized config
-**Nonce:** 689803
+**Change:** feat: build admin dashboard backend
+**Nonce:** 591307

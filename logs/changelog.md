@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0138 | 2025-01-21T13:21:29Z
+Entry 0139 | 2025-01-21T18:22:19Z
 
-**Change:** feat: add authentication and session management
-**Nonce:** 956779
+**Change:** fix: correct database migration order
+**Nonce:** 355192

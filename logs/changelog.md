@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0139 | 2025-01-21T18:22:19Z
+Entry 0140 | 2025-01-22T10:53:56Z
 
-**Change:** fix: correct database migration order
-**Nonce:** 355192
+**Change:** refactor: move constants to centralized config
+**Nonce:** 601715

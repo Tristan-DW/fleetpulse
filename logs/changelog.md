@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0140 | 2025-01-22T10:53:56Z
+Entry 0141 | 2025-01-22T11:40:01Z
 
-**Change:** refactor: move constants to centralized config
-**Nonce:** 601715
+**Change:** docs: update API reference documentation
+**Nonce:** 573507

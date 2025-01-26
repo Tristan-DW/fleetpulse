@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0145 | 2025-01-26T10:31:25Z
+Entry 0146 | 2025-01-26T11:35:14Z
 
-**Change:** fix: handle token refresh edge case
-**Nonce:** 644499
+**Change:** perf: implement server-side pagination
+**Nonce:** 133355

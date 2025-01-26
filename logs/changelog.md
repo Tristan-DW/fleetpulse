@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0146 | 2025-01-26T11:35:14Z
+Entry 0147 | 2025-01-26T13:11:35Z
 
-**Change:** perf: implement server-side pagination
-**Nonce:** 133355
+**Change:** feat: implement notification service
+**Nonce:** 905020

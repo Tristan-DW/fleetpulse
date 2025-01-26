@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0144 | 2025-01-24T18:22:02Z
+Entry 0145 | 2025-01-26T10:31:25Z
 
-**Change:** fix: sanitize all user-supplied input
-**Nonce:** 778863
+**Change:** fix: handle token refresh edge case
+**Nonce:** 644499

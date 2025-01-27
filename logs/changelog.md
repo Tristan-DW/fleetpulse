@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0149 | 2025-01-27T17:54:02Z
+Entry 0150 | 2025-01-27T18:55:26Z
 
-**Change:** test: add regression tests for known bugs
-**Nonce:** 727476
+**Change:** docs: initial README and setup guide
+**Nonce:** 455288

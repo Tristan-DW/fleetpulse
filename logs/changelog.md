@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0148 | 2025-01-27T07:20:58Z
+Entry 0149 | 2025-01-27T17:54:02Z
 
-**Change:** feat: implement search and filter endpoints
-**Nonce:** 705058
+**Change:** test: add regression tests for known bugs
+**Nonce:** 727476

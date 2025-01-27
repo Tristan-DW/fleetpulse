@@ -1,6 +1,6 @@
 # Notes
 
-chore: remove dead code
+feat: add missing index to schema
 
-Timestamp: 2025-01-25T12:38:09Z
-Nonce: 181348
+Timestamp: 2025-01-27T13:37:49Z
+Nonce: 179363

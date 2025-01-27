@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0147 | 2025-01-26T13:11:35Z
+Entry 0148 | 2025-01-27T07:20:58Z
 
-**Change:** feat: implement notification service
-**Nonce:** 905020
+**Change:** feat: implement search and filter endpoints
+**Nonce:** 705058

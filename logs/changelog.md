@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0153 | 2025-01-28T15:21:44Z
+Entry 0154 | 2025-01-28T19:42:15Z
 
-**Change:** feat: bootstrap project scaffolding
-**Nonce:** 299871
+**Change:** fix: resolve startup race condition
+**Nonce:** 671451

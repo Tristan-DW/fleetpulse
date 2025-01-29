@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0154 | 2025-01-28T19:42:15Z
+Entry 0155 | 2025-01-29T10:53:31Z
 
-**Change:** fix: resolve startup race condition
-**Nonce:** 671451
+**Change:** fix: correct timestamp serialization format
+**Nonce:** 644730

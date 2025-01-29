@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0155 | 2025-01-29T10:53:31Z
+Entry 0156 | 2025-01-29T11:08:14Z
 
-**Change:** fix: correct timestamp serialization format
-**Nonce:** 644730
+**Change:** test: write smoke tests for critical flows
+**Nonce:** 924297

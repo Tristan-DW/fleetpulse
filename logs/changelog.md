@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0156 | 2025-01-29T11:08:14Z
+Entry 0157 | 2025-01-29T15:48:35Z
 
-**Change:** test: write smoke tests for critical flows
-**Nonce:** 924297
+**Change:** fix: address reflected XSS in output layer
+**Nonce:** 377497

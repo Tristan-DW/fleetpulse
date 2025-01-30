@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0160 | 2025-01-30T15:32:48Z
+Entry 0161 | 2025-01-30T18:09:58Z
 
-**Change:** feat: implement search and filter endpoints
-**Nonce:** 443470
+**Change:** chore: configure linting and code formatting
+**Nonce:** 367394

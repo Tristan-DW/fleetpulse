@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0157 | 2025-01-29T15:48:35Z
+Entry 0158 | 2025-01-30T09:30:03Z
 
-**Change:** fix: address reflected XSS in output layer
-**Nonce:** 377497
+**Change:** feat: set up initial database schema
+**Nonce:** 973034

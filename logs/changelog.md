@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0158 | 2025-01-30T09:30:03Z
+Entry 0159 | 2025-01-30T15:00:45Z
 
-**Change:** feat: set up initial database schema
-**Nonce:** 973034
+**Change:** chore: document all environment variables
+**Nonce:** 324084

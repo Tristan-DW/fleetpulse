@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0162 | 2025-01-31T21:22:43Z
+Entry 0163 | 2025-02-01T10:39:29Z
 
-**Change:** test: write smoke tests for critical flows
-**Nonce:** 430237
+**Change:** chore: document all environment variables
+**Nonce:** 779221

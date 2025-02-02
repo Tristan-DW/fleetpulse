@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0163 | 2025-02-01T10:39:29Z
+Entry 0164 | 2025-02-02T10:51:10Z
 
-**Change:** chore: document all environment variables
-**Nonce:** 779221
+**Change:** feat: implement search and filter endpoints
+**Nonce:** 424341

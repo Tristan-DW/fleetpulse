@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0165 | 2025-02-04T17:23:45Z
+Entry 0166 | 2025-02-04T20:55:32Z
 
-**Change:** feat: implement notification service
-**Nonce:** 198760
+**Change:** feat: set up initial database schema
+**Nonce:** 357405

@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0169 | 2025-02-05T14:23:33Z
+Entry 0170 | 2025-02-05T17:48:46Z
 
-**Change:** refactor: standardize API response envelope
-**Nonce:** 679425
+**Change:** fix: handle token refresh edge case
+**Nonce:** 112820

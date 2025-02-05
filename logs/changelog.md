@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0166 | 2025-02-04T20:55:32Z
+Entry 0167 | 2025-02-05T09:09:40Z
 
-**Change:** feat: set up initial database schema
-**Nonce:** 357405
+**Change:** refactor: move constants to centralized config
+**Nonce:** 146338

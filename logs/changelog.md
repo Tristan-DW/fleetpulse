@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0167 | 2025-02-05T09:09:40Z
+Entry 0168 | 2025-02-05T13:36:38Z
 
-**Change:** refactor: move constants to centralized config
-**Nonce:** 146338
+**Change:** feat: add file upload and storage handling
+**Nonce:** 662740

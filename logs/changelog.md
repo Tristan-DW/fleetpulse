@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0168 | 2025-02-05T13:36:38Z
+Entry 0169 | 2025-02-05T14:23:33Z
 
-**Change:** feat: add file upload and storage handling
-**Nonce:** 662740
+**Change:** refactor: standardize API response envelope
+**Nonce:** 679425

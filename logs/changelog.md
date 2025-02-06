@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0170 | 2025-02-05T17:48:46Z
+Entry 0171 | 2025-02-06T14:03:28Z
 
-**Change:** fix: handle token refresh edge case
-**Nonce:** 112820
+**Change:** feat: build analytics widgets for dashboard
+**Nonce:** 860208

@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0171 | 2025-02-06T14:03:28Z
+Entry 0172 | 2025-02-06T14:21:20Z
 
-**Change:** feat: build analytics widgets for dashboard
-**Nonce:** 860208
+**Change:** fix: correct decimal rounding in calculations
+**Nonce:** 765816

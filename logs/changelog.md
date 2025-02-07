@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0173 | 2025-02-06T16:42:41Z
+Entry 0174 | 2025-02-07T12:18:42Z
 
-**Change:** fix: address reflected XSS in output layer
-**Nonce:** 208184
+**Change:** chore: upgrade runtime to latest LTS
+**Nonce:** 744061

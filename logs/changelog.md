@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0175 | 2025-02-07T17:42:28Z
+Entry 0176 | 2025-02-08T20:01:48Z
 
-**Change:** feat: implement core business logic
-**Nonce:** 224914
+**Change:** feat: bootstrap project scaffolding
+**Nonce:** 510960

@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0176 | 2025-02-08T20:01:48Z
+Entry 0177 | 2025-02-10T10:47:15Z
 
-**Change:** feat: bootstrap project scaffolding
-**Nonce:** 510960
+**Change:** perf: add query result caching layer
+**Nonce:** 263334

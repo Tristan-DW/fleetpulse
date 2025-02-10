@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0177 | 2025-02-10T10:47:15Z
+Entry 0178 | 2025-02-10T16:39:56Z
 
-**Change:** perf: add query result caching layer
-**Nonce:** 263334
+**Change:** docs: initial README and setup guide
+**Nonce:** 217414

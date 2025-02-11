@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0179 | 2025-02-11T14:00:35Z
+Entry 0180 | 2025-02-11T14:47:55Z
 
-**Change:** chore: add pre-commit validation hooks
-**Nonce:** 381742
+**Change:** feat: add audit trail to entity mutations
+**Nonce:** 597602

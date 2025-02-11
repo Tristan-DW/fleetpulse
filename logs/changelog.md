@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0178 | 2025-02-10T16:39:56Z
+Entry 0179 | 2025-02-11T14:00:35Z
 
-**Change:** docs: initial README and setup guide
-**Nonce:** 217414
+**Change:** chore: add pre-commit validation hooks
+**Nonce:** 381742

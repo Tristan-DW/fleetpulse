@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0180 | 2025-02-11T14:47:55Z
+Entry 0181 | 2025-02-14T11:03:35Z
 
-**Change:** feat: add audit trail to entity mutations
-**Nonce:** 597602
+**Change:** docs: update API reference documentation
+**Nonce:** 434764

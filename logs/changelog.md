@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0182 | 2025-02-14T16:41:23Z
+Entry 0183 | 2025-02-15T12:40:05Z
 
-**Change:** fix: correct order status state machine
-**Nonce:** 977010
+**Change:** feat: add multi-language support scaffolding
+**Nonce:** 575552

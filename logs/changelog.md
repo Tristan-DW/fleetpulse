@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0183 | 2025-02-15T12:40:05Z
+Entry 0184 | 2025-02-16T08:23:33Z
 
-**Change:** feat: add multi-language support scaffolding
-**Nonce:** 575552
+**Change:** feat: add transactional email templates
+**Nonce:** 933643

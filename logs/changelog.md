@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0184 | 2025-02-16T08:23:33Z
+Entry 0185 | 2025-02-16T19:29:45Z
 
-**Change:** feat: add transactional email templates
-**Nonce:** 933643
+**Change:** fix: address reflected XSS in output layer
+**Nonce:** 131816

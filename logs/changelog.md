@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0185 | 2025-02-16T19:29:45Z
+Entry 0186 | 2025-02-17T15:35:43Z
 
-**Change:** fix: address reflected XSS in output layer
-**Nonce:** 131816
+**Change:** feat: implement real-time updates via WebSocket
+**Nonce:** 955052

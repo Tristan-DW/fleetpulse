@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0188 | 2025-02-18T12:37:17Z
+Entry 0189 | 2025-02-18T15:26:07Z
 
-**Change:** fix: correct permission check logic
-**Nonce:** 503068
+**Change:** feat: integrate payment gateway
+**Nonce:** 432033

@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0189 | 2025-02-18T15:26:07Z
+Entry 0190 | 2025-02-18T16:09:43Z
 
-**Change:** feat: integrate payment gateway
-**Nonce:** 432033
+**Change:** feat: add user management module
+**Nonce:** 306184

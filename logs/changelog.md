@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0190 | 2025-02-18T16:09:43Z
+Entry 0191 | 2025-02-19T17:34:05Z
 
-**Change:** feat: add user management module
-**Nonce:** 306184
+**Change:** feat: bootstrap project scaffolding
+**Nonce:** 710490

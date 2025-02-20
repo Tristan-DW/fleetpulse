@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0191 | 2025-02-19T17:34:05Z
+Entry 0192 | 2025-02-20T10:05:48Z
 
-**Change:** feat: bootstrap project scaffolding
-**Nonce:** 710490
+**Change:** feat: add transactional email templates
+**Nonce:** 237890

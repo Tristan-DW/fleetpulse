@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0193 | 2025-02-20T16:34:25Z
+Entry 0194 | 2025-02-21T09:25:38Z
 
-**Change:** test: write smoke tests for critical flows
-**Nonce:** 199768
+**Change:** perf: add query result caching layer
+**Nonce:** 903387

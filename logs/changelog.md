@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0194 | 2025-02-21T09:25:38Z
+Entry 0195 | 2025-02-22T10:20:51Z
 
-**Change:** perf: add query result caching layer
-**Nonce:** 903387
+**Change:** test: end-to-end tests for checkout flow
+**Nonce:** 412996

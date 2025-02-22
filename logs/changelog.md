@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0196 | 2025-02-22T12:19:39Z
+Entry 0197 | 2025-02-22T14:33:24Z
 
-**Change:** test: write smoke tests for critical flows
-**Nonce:** 686776
+**Change:** feat: integrate payment gateway
+**Nonce:** 273416

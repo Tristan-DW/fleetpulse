@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0195 | 2025-02-22T10:20:51Z
+Entry 0196 | 2025-02-22T12:19:39Z
 
-**Change:** test: end-to-end tests for checkout flow
-**Nonce:** 412996
+**Change:** test: write smoke tests for critical flows
+**Nonce:** 686776

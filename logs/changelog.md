@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0197 | 2025-02-22T14:33:24Z
+Entry 0198 | 2025-02-23T16:46:03Z
 
-**Change:** feat: integrate payment gateway
-**Nonce:** 273416
+**Change:** fix: resolve startup race condition
+**Nonce:** 409043

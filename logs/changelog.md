@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0199 | 2025-02-24T09:09:27Z
+Entry 0200 | 2025-02-24T11:24:25Z
 
-**Change:** fix: correct order status state machine
-**Nonce:** 656387
+**Change:** feat: integrate payment gateway
+**Nonce:** 781986

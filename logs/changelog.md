@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0198 | 2025-02-23T16:46:03Z
+Entry 0199 | 2025-02-24T09:09:27Z
 
-**Change:** fix: resolve startup race condition
-**Nonce:** 409043
+**Change:** fix: correct order status state machine
+**Nonce:** 656387

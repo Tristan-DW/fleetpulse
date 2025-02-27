@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0202 | 2025-02-26T15:49:32Z
+Entry 0203 | 2025-02-27T12:26:50Z
 
-**Change:** fix: address reflected XSS in output layer
-**Nonce:** 777203
+**Change:** fix: resolve startup race condition
+**Nonce:** 545366

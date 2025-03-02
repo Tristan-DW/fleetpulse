@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0205 | 2025-02-27T16:18:44Z
+Entry 0206 | 2025-03-02T11:08:29Z
 
-**Change:** refactor: decouple data and presentation layers
-**Nonce:** 295881
+**Change:** fix: correct timestamp serialization format
+**Nonce:** 775866

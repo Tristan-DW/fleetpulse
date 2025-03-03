@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0207 | 2025-03-02T15:51:04Z
+Entry 0208 | 2025-03-03T08:00:14Z
 
-**Change:** feat: build admin dashboard backend
-**Nonce:** 185676
+**Change:** docs: initial README and setup guide
+**Nonce:** 810221

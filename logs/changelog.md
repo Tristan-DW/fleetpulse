@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0208 | 2025-03-03T08:00:14Z
+Entry 0209 | 2025-03-04T14:47:51Z
 
-**Change:** docs: initial README and setup guide
-**Nonce:** 810221
+**Change:** perf: precompute report aggregations
+**Nonce:** 228231

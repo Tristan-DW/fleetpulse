@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0209 | 2025-03-04T14:47:51Z
+Entry 0210 | 2025-03-04T19:23:56Z
 
-**Change:** perf: precompute report aggregations
-**Nonce:** 228231
+**Change:** chore: configure linting and code formatting
+**Nonce:** 410559

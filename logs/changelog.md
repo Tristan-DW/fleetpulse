@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0210 | 2025-03-04T19:23:56Z
+Entry 0211 | 2025-03-05T11:59:55Z
 
-**Change:** chore: configure linting and code formatting
-**Nonce:** 410559
+**Change:** feat: implement real-time updates via WebSocket
+**Nonce:** 254587

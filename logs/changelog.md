@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0213 | 2025-03-07T16:43:08Z
+Entry 0214 | 2025-03-08T14:01:47Z
 
-**Change:** feat: add transactional email templates
-**Nonce:** 650564
+**Change:** feat: build admin dashboard backend
+**Nonce:** 229654

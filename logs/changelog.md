@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0217 | 2025-03-10T09:27:24Z
+Entry 0218 | 2025-03-10T10:47:18Z
 
-**Change:** fix: correct decimal rounding in calculations
-**Nonce:** 538563
+**Change:** fix: resolve connection leak in pool
+**Nonce:** 754817

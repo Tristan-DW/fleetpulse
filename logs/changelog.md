@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0216 | 2025-03-08T17:07:08Z
+Entry 0217 | 2025-03-10T09:27:24Z
 
-**Change:** feat: build admin dashboard backend
-**Nonce:** 196655
+**Change:** fix: correct decimal rounding in calculations
+**Nonce:** 538563

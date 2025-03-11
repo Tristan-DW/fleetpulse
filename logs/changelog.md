@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0218 | 2025-03-10T10:47:18Z
+Entry 0219 | 2025-03-11T20:15:10Z
 
-**Change:** fix: resolve connection leak in pool
-**Nonce:** 754817
+**Change:** perf: precompute report aggregations
+**Nonce:** 304010

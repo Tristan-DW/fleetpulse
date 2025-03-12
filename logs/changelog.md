@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0219 | 2025-03-11T20:15:10Z
+Entry 0220 | 2025-03-12T13:31:10Z
 
-**Change:** perf: precompute report aggregations
-**Nonce:** 304010
+**Change:** refactor: standardize API response envelope
+**Nonce:** 285406

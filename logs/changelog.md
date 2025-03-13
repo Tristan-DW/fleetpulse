@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0220 | 2025-03-12T13:31:10Z
+Entry 0221 | 2025-03-13T07:07:57Z
 
-**Change:** refactor: standardize API response envelope
-**Nonce:** 285406
+**Change:** fix: correct database migration order
+**Nonce:** 810417

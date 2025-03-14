@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0221 | 2025-03-13T07:07:57Z
+Entry 0222 | 2025-03-14T10:41:39Z
 
-**Change:** fix: correct database migration order
-**Nonce:** 810417
+**Change:** docs: update API reference documentation
+**Nonce:** 942742

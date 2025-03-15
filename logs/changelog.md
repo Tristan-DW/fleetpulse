@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0223 | 2025-03-14T17:42:13Z
+Entry 0224 | 2025-03-15T08:58:34Z
 
-**Change:** perf: precompute report aggregations
-**Nonce:** 154384
+**Change:** fix: correct timestamp serialization format
+**Nonce:** 762359

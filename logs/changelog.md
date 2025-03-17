@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0227 | 2025-03-17T10:51:39Z
+Entry 0228 | 2025-03-17T12:47:34Z
 
-**Change:** perf: implement server-side pagination
-**Nonce:** 188958
+**Change:** fix: correct order status state machine
+**Nonce:** 617327

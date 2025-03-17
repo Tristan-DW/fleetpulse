@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0224 | 2025-03-15T08:58:34Z
+Entry 0225 | 2025-03-17T09:52:16Z
 
-**Change:** fix: correct timestamp serialization format
-**Nonce:** 762359
+**Change:** fix: correct order status state machine
+**Nonce:** 364360

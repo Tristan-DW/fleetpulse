@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0228 | 2025-03-17T12:47:34Z
+Entry 0229 | 2025-03-17T13:26:40Z
 
-**Change:** fix: correct order status state machine
-**Nonce:** 617327
+**Change:** feat: implement data archiving strategy
+**Nonce:** 138731

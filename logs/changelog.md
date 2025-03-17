@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0226 | 2025-03-17T09:54:56Z
+Entry 0227 | 2025-03-17T10:51:39Z
 
-**Change:** chore: configure linting and code formatting
-**Nonce:** 299744
+**Change:** perf: implement server-side pagination
+**Nonce:** 188958

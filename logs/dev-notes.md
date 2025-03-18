@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0002 | 2025-03-18T15:55:39Z
+Entry 0003 | 2025-03-18T19:18:02Z
 
-**Task:** feat: extend API surface with new endpoints
-**Nonce:** 565520
+**Task:** refactor: extract notification service
+**Nonce:** 710538

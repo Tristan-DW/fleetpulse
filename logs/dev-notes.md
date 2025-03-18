@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0001 | 2025-03-18T15:22:12Z
+Entry 0002 | 2025-03-18T15:55:39Z
 
-**Task:** refactor: split monolithic service into modules
-**Nonce:** 751660
+**Task:** feat: extend API surface with new endpoints
+**Nonce:** 565520

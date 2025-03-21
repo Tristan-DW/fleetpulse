@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0004 | 2025-03-19T11:21:53Z
+Entry 0005 | 2025-03-21T11:14:48Z
 
-**Task:** perf: batch database writes for throughput
-**Nonce:** 497897
+**Task:** refactor: extract notification service
+**Nonce:** 383670

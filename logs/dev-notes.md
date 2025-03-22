@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0006 | 2025-03-21T18:51:27Z
+Entry 0007 | 2025-03-22T15:40:29Z
 
-**Task:** chore: update base Docker image
-**Nonce:** 771714
+**Task:** docs: add architecture decision records
+**Nonce:** 224401

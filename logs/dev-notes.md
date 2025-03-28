@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0010 | 2025-03-28T11:36:07Z
+Entry 0011 | 2025-03-28T12:42:07Z
 
-**Task:** feat: implement two-factor authentication
-**Nonce:** 499612
+**Task:** refactor: extract notification service
+**Nonce:** 406716

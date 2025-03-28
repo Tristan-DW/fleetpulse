@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0011 | 2025-03-28T12:42:07Z
+Entry 0012 | 2025-03-28T12:54:41Z
 
-**Task:** refactor: extract notification service
-**Nonce:** 406716
+**Task:** docs: add architecture decision records
+**Nonce:** 149759

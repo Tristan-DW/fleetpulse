@@ -1,6 +1,6 @@
 # Notes
 
-perf: reduce redundant lookups
+feat: extend config options
 
-Timestamp: 2025-04-02T08:13:02Z
-Nonce: 686995
+Timestamp: 2025-04-02T09:18:08Z
+Nonce: 839485

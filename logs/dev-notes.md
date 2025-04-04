@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0021 | 2025-04-04T07:18:15Z
+Entry 0022 | 2025-04-04T14:14:28Z
 
-**Task:** perf: cache expensive aggregation queries
-**Nonce:** 551034
+**Task:** chore: remove unused feature flag code
+**Nonce:** 529596

@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0024 | 2025-04-07T14:50:50Z
+Entry 0025 | 2025-04-07T18:20:58Z
 
-**Task:** chore: update base Docker image
-**Nonce:** 635282
+**Task:** fix: resolve null dereference in auth middleware
+**Nonce:** 663263

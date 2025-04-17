@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0030 | 2025-04-17T16:37:27Z
+Entry 0031 | 2025-04-17T17:20:29Z
 
-**Task:** feat: extend API surface with new endpoints
-**Nonce:** 965480
+**Task:** fix: prevent duplicate event processing
+**Nonce:** 338497

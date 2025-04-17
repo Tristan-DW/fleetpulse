@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0029 | 2025-04-17T13:50:54Z
+Entry 0030 | 2025-04-17T16:37:27Z
 
-**Task:** chore: update base Docker image
-**Nonce:** 100696
+**Task:** feat: extend API surface with new endpoints
+**Nonce:** 965480

@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0034 | 2025-04-22T20:27:14Z
+Entry 0035 | 2025-04-24T21:50:44Z
 
-**Task:** fix: correct date range boundary condition
-**Nonce:** 196287
+**Task:** refactor: move validation into dedicated layer
+**Nonce:** 863033

@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0040 | 2025-04-30T13:13:38Z
+Entry 0041 | 2025-05-03T11:57:59Z
 
-**Task:** fix: correct token expiry handling
-**Nonce:** 439866
+**Task:** feat: implement background job queue
+**Nonce:** 307071

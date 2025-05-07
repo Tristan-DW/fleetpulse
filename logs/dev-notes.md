@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0042 | 2025-05-05T14:04:37Z
+Entry 0043 | 2025-05-07T13:56:51Z
 
-**Task:** chore: bump dependency versions
-**Nonce:** 129086
+**Task:** feat: add soft delete support
+**Nonce:** 962333

@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0049 | 2025-05-11T09:43:26Z
+Entry 0050 | 2025-05-11T12:05:49Z
 
-**Task:** chore: remove unused feature flag code
-**Nonce:** 160141
+**Task:** fix: resolve CORS preflight rejection
+**Nonce:** 872017

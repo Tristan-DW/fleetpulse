@@ -1,6 +1,6 @@
 # Notes
 
-docs: update inline comments
+refactor: simplify conditional logic
 
-Timestamp: 2025-05-23T08:22:47Z
-Nonce: 952827
+Timestamp: 2025-05-24T09:51:41Z
+Nonce: 896147

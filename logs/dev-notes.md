@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0059 | 2025-06-05T10:31:48Z
+Entry 0060 | 2025-06-08T10:45:01Z
 
-**Task:** test: integration tests for payment flow
-**Nonce:** 286640
+**Task:** chore: update base Docker image
+**Nonce:** 419286

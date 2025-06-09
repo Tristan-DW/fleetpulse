@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0060 | 2025-06-08T10:45:01Z
+Entry 0061 | 2025-06-09T13:12:47Z
 
-**Task:** chore: update base Docker image
-**Nonce:** 419286
+**Task:** fix: resolve CORS preflight rejection
+**Nonce:** 389397

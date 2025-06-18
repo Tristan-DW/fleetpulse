@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0065 | 2025-06-13T19:49:02Z
+Entry 0066 | 2025-06-18T11:55:33Z
 
-**Task:** chore: update base Docker image
-**Nonce:** 863386
+**Task:** fix: correct token expiry handling
+**Nonce:** 254787

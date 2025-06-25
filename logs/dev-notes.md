@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0070 | 2025-06-24T15:02:28Z
+Entry 0071 | 2025-06-25T11:57:23Z
 
-**Task:** fix: resolve null dereference in auth middleware
-**Nonce:** 626642
+**Task:** fix: correct float precision in billing calc
+**Nonce:** 541296

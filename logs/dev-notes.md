@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0073 | 2025-06-26T09:33:45Z
+Entry 0074 | 2025-06-26T11:47:19Z
 
-**Task:** chore: remove unused feature flag code
-**Nonce:** 334402
+**Task:** refactor: extract notification service
+**Nonce:** 396553

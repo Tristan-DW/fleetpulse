@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0074 | 2025-06-26T11:47:19Z
+Entry 0075 | 2025-06-27T14:08:13Z
 
-**Task:** refactor: extract notification service
-**Nonce:** 396553
+**Task:** perf: lazy-load heavy dependencies
+**Nonce:** 601374

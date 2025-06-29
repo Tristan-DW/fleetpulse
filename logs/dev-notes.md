@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0075 | 2025-06-27T14:08:13Z
+Entry 0076 | 2025-06-29T13:42:29Z
 
-**Task:** perf: lazy-load heavy dependencies
-**Nonce:** 601374
+**Task:** perf: add index to frequently queried columns
+**Nonce:** 186456

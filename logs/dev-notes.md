@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0076 | 2025-06-29T13:42:29Z
+Entry 0077 | 2025-06-30T14:12:38Z
 
-**Task:** perf: add index to frequently queried columns
-**Nonce:** 186456
+**Task:** feat: extend API surface with new endpoints
+**Nonce:** 965179

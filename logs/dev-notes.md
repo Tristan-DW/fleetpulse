@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0077 | 2025-06-30T14:12:38Z
+Entry 0078 | 2025-07-01T11:52:19Z
 
-**Task:** feat: extend API surface with new endpoints
-**Nonce:** 965179
+**Task:** refactor: consolidate environment config loading
+**Nonce:** 614685

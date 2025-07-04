@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0078 | 2025-07-01T11:52:19Z
+Entry 0079 | 2025-07-04T12:53:24Z
 
-**Task:** refactor: consolidate environment config loading
-**Nonce:** 614685
+**Task:** fix: resolve CORS preflight rejection
+**Nonce:** 449327

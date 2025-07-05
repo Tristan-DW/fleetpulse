@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0079 | 2025-07-04T12:53:24Z
+Entry 0080 | 2025-07-05T14:02:00Z
 
-**Task:** fix: resolve CORS preflight rejection
-**Nonce:** 449327
+**Task:** feat: support multi-tenant data isolation
+**Nonce:** 296831

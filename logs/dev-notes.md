@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0081 | 2025-07-06T12:09:04Z
+Entry 0082 | 2025-07-08T19:21:28Z
 
-**Task:** feat: implement background job queue
-**Nonce:** 309116
+**Task:** perf: batch database writes for throughput
+**Nonce:** 582638

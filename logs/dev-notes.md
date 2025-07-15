@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0085 | 2025-07-15T09:55:12Z
+Entry 0086 | 2025-07-15T18:14:44Z
 
-**Task:** fix: handle malformed JSON in request body
-**Nonce:** 859205
+**Task:** test: cover authentication edge cases
+**Nonce:** 483944

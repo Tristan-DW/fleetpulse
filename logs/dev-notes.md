@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0086 | 2025-07-15T18:14:44Z
+Entry 0087 | 2025-07-16T09:06:40Z
 
-**Task:** test: cover authentication edge cases
-**Nonce:** 483944
+**Task:** fix: resolve null dereference in auth middleware
+**Nonce:** 630576

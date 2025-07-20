@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0088 | 2025-07-17T11:20:42Z
+Entry 0089 | 2025-07-20T15:08:15Z
 
-**Task:** fix: prevent duplicate event processing
-**Nonce:** 730355
+**Task:** refactor: extract notification service
+**Nonce:** 656933

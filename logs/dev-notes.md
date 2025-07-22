@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0089 | 2025-07-20T15:08:15Z
+Entry 0090 | 2025-07-22T13:15:24Z
 
-**Task:** refactor: extract notification service
-**Nonce:** 656933
+**Task:** feat: support multi-tenant data isolation
+**Nonce:** 213749

@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0092 | 2025-07-29T07:49:58Z
+Entry 0093 | 2025-07-29T19:23:01Z
 
-**Task:** feat: implement two-factor authentication
-**Nonce:** 178037
+**Task:** feat: add soft delete support
+**Nonce:** 496620

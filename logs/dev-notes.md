@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0094 | 2025-07-30T08:27:14Z
+Entry 0095 | 2025-07-30T10:07:36Z
 
-**Task:** perf: add index to frequently queried columns
-**Nonce:** 116640
+**Task:** feat: add bulk import endpoint
+**Nonce:** 789286

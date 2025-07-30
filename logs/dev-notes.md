@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0093 | 2025-07-29T19:23:01Z
+Entry 0094 | 2025-07-30T08:27:14Z
 
-**Task:** feat: add soft delete support
-**Nonce:** 496620
+**Task:** perf: add index to frequently queried columns
+**Nonce:** 116640

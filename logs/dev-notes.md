@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0095 | 2025-07-30T10:07:36Z
+Entry 0096 | 2025-07-31T08:43:19Z
 
-**Task:** feat: add bulk import endpoint
-**Nonce:** 789286
+**Task:** chore: enforce strict TypeScript config
+**Nonce:** 952172

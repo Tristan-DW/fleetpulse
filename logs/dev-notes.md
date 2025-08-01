@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0096 | 2025-07-31T08:43:19Z
+Entry 0097 | 2025-08-01T17:12:19Z
 
-**Task:** chore: enforce strict TypeScript config
-**Nonce:** 952172
+**Task:** chore: update base Docker image
+**Nonce:** 105979

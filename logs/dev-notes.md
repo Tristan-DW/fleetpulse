@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0097 | 2025-08-01T17:12:19Z
+Entry 0098 | 2025-08-03T13:31:44Z
 
-**Task:** chore: update base Docker image
-**Nonce:** 105979
+**Task:** feat: add full-text search capability
+**Nonce:** 212029

@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0099 | 2025-08-04T11:08:27Z
+Entry 0100 | 2025-08-04T14:46:23Z
 
-**Task:** feat: add soft delete support
-**Nonce:** 310565
+**Task:** perf: batch database writes for throughput
+**Nonce:** 619943

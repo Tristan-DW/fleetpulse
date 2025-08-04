@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0098 | 2025-08-03T13:31:44Z
+Entry 0099 | 2025-08-04T11:08:27Z
 
-**Task:** feat: add full-text search capability
-**Nonce:** 212029
+**Task:** feat: add soft delete support
+**Nonce:** 310565

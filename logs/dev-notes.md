@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0102 | 2025-08-08T11:45:58Z
+Entry 0103 | 2025-08-09T14:12:02Z
 
-**Task:** feat: extend API surface with new endpoints
-**Nonce:** 743430
+**Task:** feat: add idempotency key support
+**Nonce:** 707513

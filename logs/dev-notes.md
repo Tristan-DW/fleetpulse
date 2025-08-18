@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0111 | 2025-08-18T15:10:54Z
+Entry 0112 | 2025-08-18T21:11:40Z
 
-**Task:** refactor: unify error response schema
-**Nonce:** 888666
+**Task:** test: cover authentication edge cases
+**Nonce:** 459999

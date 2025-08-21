@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0113 | 2025-08-20T11:12:01Z
+Entry 0114 | 2025-08-21T10:08:30Z
 
-**Task:** test: integration tests for payment flow
-**Nonce:** 869491
+**Task:** fix: handle connection pool exhaustion
+**Nonce:** 294793

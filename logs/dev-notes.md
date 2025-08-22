@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0115 | 2025-08-22T14:46:57Z
+Entry 0116 | 2025-08-22T19:20:53Z
 
-**Task:** chore: update base Docker image
-**Nonce:** 256644
+**Task:** perf: cache expensive aggregation queries
+**Nonce:** 303841

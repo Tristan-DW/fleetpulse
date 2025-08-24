@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0116 | 2025-08-22T19:20:53Z
+Entry 0117 | 2025-08-24T10:38:56Z
 
-**Task:** perf: cache expensive aggregation queries
-**Nonce:** 303841
+**Task:** feat: add full-text search capability
+**Nonce:** 244013

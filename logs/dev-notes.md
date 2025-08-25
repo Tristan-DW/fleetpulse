@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0117 | 2025-08-24T10:38:56Z
+Entry 0118 | 2025-08-25T10:10:50Z
 
-**Task:** feat: add full-text search capability
-**Nonce:** 244013
+**Task:** feat: implement background job queue
+**Nonce:** 730288

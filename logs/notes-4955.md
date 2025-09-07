@@ -1,6 +1,6 @@
 # Notes
 
-fix: edge case in request validation
+feat: add missing index to schema
 
-Timestamp: 2025-09-02T11:58:21Z
-Nonce: 569899
+Timestamp: 2025-09-07T13:27:10Z
+Nonce: 138256

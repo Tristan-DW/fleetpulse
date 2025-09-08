@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0121 | 2025-09-05T14:15:44Z
+Entry 0122 | 2025-09-08T16:01:29Z
 
-**Task:** fix: resolve CORS preflight rejection
-**Nonce:** 631822
+**Task:** chore: bump dependency versions
+**Nonce:** 694166

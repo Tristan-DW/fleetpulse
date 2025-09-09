@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0123 | 2025-09-08T17:48:39Z
+Entry 0124 | 2025-09-09T07:42:59Z
 
-**Task:** fix: prevent duplicate event processing
-**Nonce:** 510919
+**Task:** fix: handle connection pool exhaustion
+**Nonce:** 879314

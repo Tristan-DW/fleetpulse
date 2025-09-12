@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0125 | 2025-09-10T11:58:07Z
+Entry 0126 | 2025-09-12T20:14:09Z
 
-**Task:** test: integration tests for payment flow
-**Nonce:** 206696
+**Task:** chore: remove unused feature flag code
+**Nonce:** 573482

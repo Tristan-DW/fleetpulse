@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0129 | 2025-09-15T15:45:28Z
+Entry 0130 | 2025-09-15T19:12:55Z
 
-**Task:** feat: add full-text search capability
-**Nonce:** 384590
+**Task:** feat: add bulk import endpoint
+**Nonce:** 333024

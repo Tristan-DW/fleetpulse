@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0126 | 2025-09-12T20:14:09Z
+Entry 0127 | 2025-09-15T10:27:55Z
 
-**Task:** chore: remove unused feature flag code
-**Nonce:** 573482
+**Task:** refactor: move validation into dedicated layer
+**Nonce:** 247024

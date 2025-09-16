@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0130 | 2025-09-15T19:12:55Z
+Entry 0131 | 2025-09-16T20:17:23Z
 
-**Task:** feat: add bulk import endpoint
-**Nonce:** 333024
+**Task:** fix: resolve null dereference in auth middleware
+**Nonce:** 376826

@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0131 | 2025-09-16T20:17:23Z
+Entry 0132 | 2025-09-17T10:14:39Z
 
-**Task:** fix: resolve null dereference in auth middleware
-**Nonce:** 376826
+**Task:** fix: handle malformed JSON in request body
+**Nonce:** 717336

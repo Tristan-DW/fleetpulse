@@ -1,6 +1,6 @@
 # Notes
 
-chore: remove dead code
+refactor: simplify conditional logic
 
-Timestamp: 2025-09-15T21:22:39Z
-Nonce: 986385
+Timestamp: 2025-09-22T21:10:53Z
+Nonce: 795343

@@ -1,6 +1,6 @@
 # Notes
 
-refactor: simplify conditional logic
+feat: wire up missing route handler
 
-Timestamp: 2025-09-22T21:10:53Z
-Nonce: 795343
+Timestamp: 2025-09-26T18:05:30Z
+Nonce: 730298

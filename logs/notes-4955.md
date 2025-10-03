@@ -1,6 +1,6 @@
 # Notes
 
-feat: wire up missing route handler
+fix: correct off-by-one in pagination
 
-Timestamp: 2025-09-26T18:05:30Z
-Nonce: 730298
+Timestamp: 2025-10-03T09:00:56Z
+Nonce: 445616

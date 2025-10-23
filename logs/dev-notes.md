@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0156 | 2025-10-22T11:12:09Z
+Entry 0157 | 2025-10-23T14:20:52Z
 
-**Task:** perf: lazy-load heavy dependencies
-**Nonce:** 935070
+**Task:** refactor: move validation into dedicated layer
+**Nonce:** 462052

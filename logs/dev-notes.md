@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0159 | 2025-10-24T18:11:29Z
+Entry 0160 | 2025-10-27T13:45:01Z
 
-**Task:** feat: add role-based access control
-**Nonce:** 255116
+**Task:** feat: add soft delete support
+**Nonce:** 987521

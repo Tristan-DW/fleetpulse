@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0160 | 2025-10-27T13:45:01Z
+Entry 0161 | 2025-10-30T11:03:57Z
 
 **Task:** feat: add soft delete support
-**Nonce:** 987521
+**Nonce:** 945210

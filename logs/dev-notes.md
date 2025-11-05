@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0164 | 2025-11-04T15:45:43Z
+Entry 0165 | 2025-11-05T14:32:57Z
 
-**Task:** fix: handle malformed JSON in request body
-**Nonce:** 205418
+**Task:** feat: extend API surface with new endpoints
+**Nonce:** 839460

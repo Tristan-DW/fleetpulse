@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0165 | 2025-11-05T14:32:57Z
+Entry 0166 | 2025-11-06T19:15:56Z
 
-**Task:** feat: extend API surface with new endpoints
-**Nonce:** 839460
+**Task:** fix: address SQL injection vulnerability
+**Nonce:** 195743

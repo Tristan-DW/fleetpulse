@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0169 | 2025-11-11T12:01:58Z
+Entry 0170 | 2025-11-12T18:12:40Z
 
-**Task:** refactor: consolidate environment config loading
-**Nonce:** 111892
+**Task:** refactor: unify error response schema
+**Nonce:** 122381

@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0171 | 2025-11-12T21:38:30Z
+Entry 0172 | 2025-11-13T21:07:59Z
 
-**Task:** docs: document deployment procedures
-**Nonce:** 139613
+**Task:** refactor: move validation into dedicated layer
+**Nonce:** 772479

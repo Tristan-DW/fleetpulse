@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0172 | 2025-11-13T21:07:59Z
+Entry 0173 | 2025-11-14T13:04:36Z
 
-**Task:** refactor: move validation into dedicated layer
-**Nonce:** 772479
+**Task:** feat: add full-text search capability
+**Nonce:** 347391

@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0178 | 2025-11-24T15:03:50Z
+Entry 0179 | 2025-11-28T11:59:57Z
 
-**Task:** feat: add role-based access control
-**Nonce:** 909817
+**Task:** fix: correct float precision in billing calc
+**Nonce:** 661825

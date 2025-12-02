@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0179 | 2025-11-28T11:59:57Z
+Entry 0180 | 2025-12-02T20:40:25Z
 
-**Task:** fix: correct float precision in billing calc
-**Nonce:** 661825
+**Task:** fix: resolve CORS preflight rejection
+**Nonce:** 228946

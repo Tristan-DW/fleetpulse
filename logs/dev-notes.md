@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0180 | 2025-12-02T20:40:25Z
+Entry 0181 | 2025-12-03T17:32:44Z
 
-**Task:** fix: resolve CORS preflight rejection
-**Nonce:** 228946
+**Task:** perf: lazy-load heavy dependencies
+**Nonce:** 438511

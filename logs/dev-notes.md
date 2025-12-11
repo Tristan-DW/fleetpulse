@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0187 | 2025-12-10T13:49:31Z
+Entry 0188 | 2025-12-11T13:25:34Z
 
-**Task:** fix: prevent duplicate event processing
-**Nonce:** 899004
+**Task:** refactor: unify error response schema
+**Nonce:** 174426

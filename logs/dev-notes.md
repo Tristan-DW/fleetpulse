@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0189 | 2025-12-11T13:50:39Z
+Entry 0190 | 2025-12-12T14:37:38Z
 
-**Task:** refactor: consolidate environment config loading
-**Nonce:** 703889
+**Task:** docs: document deployment procedures
+**Nonce:** 983947

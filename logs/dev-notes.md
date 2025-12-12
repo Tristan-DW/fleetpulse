@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0191 | 2025-12-12T15:01:35Z
+Entry 0192 | 2025-12-12T16:14:33Z
 
-**Task:** fix: correct token expiry handling
-**Nonce:** 269659
+**Task:** refactor: split monolithic service into modules
+**Nonce:** 373026

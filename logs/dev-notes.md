@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0190 | 2025-12-12T14:37:38Z
+Entry 0191 | 2025-12-12T15:01:35Z
 
-**Task:** docs: document deployment procedures
-**Nonce:** 983947
+**Task:** fix: correct token expiry handling
+**Nonce:** 269659

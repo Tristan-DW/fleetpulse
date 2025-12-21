@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0195 | 2025-12-16T18:59:18Z
+Entry 0196 | 2025-12-21T10:02:25Z
 
-**Task:** feat: implement event sourcing pattern
-**Nonce:** 534000
+**Task:** feat: expose Prometheus metrics endpoint
+**Nonce:** 384005

@@ -1,8 +1,8 @@
 # Activity Log
 
-## Entry 0152
+## Entry 0153
 
-- **Timestamp:** `2025-12-11T12:20:14Z`
-- **Commit:** 152 of 200
-- **Note:** chore: code formatting and cleanup
-- **Nonce:** 473459
+- **Timestamp:** `2025-12-23T18:13:08Z`
+- **Commit:** 153 of 200
+- **Note:** feat: add pagination to list endpoints
+- **Nonce:** 606583

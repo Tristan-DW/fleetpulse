@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0196 | 2025-12-21T10:02:25Z
+Entry 0197 | 2025-12-24T13:23:58Z
 
-**Task:** feat: expose Prometheus metrics endpoint
-**Nonce:** 384005
+**Task:** feat: add bulk import endpoint
+**Nonce:** 309479

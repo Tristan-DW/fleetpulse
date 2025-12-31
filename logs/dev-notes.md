@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0200 | 2025-12-29T17:15:24Z
+Entry 0201 | 2025-12-31T13:48:52Z
 
-**Task:** fix: handle malformed JSON in request body
-**Nonce:** 506299
+**Task:** fix: resolve CORS preflight rejection
+**Nonce:** 226069

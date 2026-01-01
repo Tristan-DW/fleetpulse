@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0201 | 2025-12-31T13:48:52Z
+Entry 0202 | 2026-01-01T09:02:03Z
 
-**Task:** fix: resolve CORS preflight rejection
-**Nonce:** 226069
+**Task:** feat: add bulk import endpoint
+**Nonce:** 971750

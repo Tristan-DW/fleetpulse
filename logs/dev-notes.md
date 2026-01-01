@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0202 | 2026-01-01T09:02:03Z
+Entry 0203 | 2026-01-01T17:16:37Z
 
-**Task:** feat: add bulk import endpoint
-**Nonce:** 971750
+**Task:** fix: correct token expiry handling
+**Nonce:** 288139

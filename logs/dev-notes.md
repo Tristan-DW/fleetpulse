@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0205 | 2026-01-02T19:55:30Z
+Entry 0206 | 2026-01-04T10:53:21Z
 
-**Task:** feat: implement event sourcing pattern
-**Nonce:** 578297
+**Task:** chore: remove unused feature flag code
+**Nonce:** 183156

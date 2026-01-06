@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0206 | 2026-01-04T10:53:21Z
+Entry 0207 | 2026-01-06T11:37:59Z
 
-**Task:** chore: remove unused feature flag code
-**Nonce:** 183156
+**Task:** fix: resolve null dereference in auth middleware
+**Nonce:** 164513

@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0208 | 2026-01-08T14:29:21Z
+Entry 0209 | 2026-01-09T12:12:15Z
 
-**Task:** fix: resolve null dereference in auth middleware
-**Nonce:** 689753
+**Task:** fix: resolve CORS preflight rejection
+**Nonce:** 169580

@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0209 | 2026-01-09T12:12:15Z
+Entry 0210 | 2026-01-12T13:22:54Z
 
-**Task:** fix: resolve CORS preflight rejection
-**Nonce:** 169580
+**Task:** perf: add index to frequently queried columns
+**Nonce:** 659562

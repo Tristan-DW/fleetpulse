@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0210 | 2026-01-12T13:22:54Z
+Entry 0211 | 2026-01-13T12:51:14Z
 
-**Task:** perf: add index to frequently queried columns
-**Nonce:** 659562
+**Task:** fix: correct token expiry handling
+**Nonce:** 780178

@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0211 | 2026-01-13T12:51:14Z
+Entry 0212 | 2026-01-14T08:04:15Z
 
-**Task:** fix: correct token expiry handling
-**Nonce:** 780178
+**Task:** feat: implement event sourcing pattern
+**Nonce:** 368219

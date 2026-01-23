@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0216 | 2026-01-22T10:48:09Z
+Entry 0217 | 2026-01-23T12:22:17Z
 
-**Task:** perf: add index to frequently queried columns
-**Nonce:** 627367
+**Task:** perf: batch database writes for throughput
+**Nonce:** 349112

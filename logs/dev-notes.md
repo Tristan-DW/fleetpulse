@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0219 | 2026-01-30T11:38:36Z
+Entry 0220 | 2026-01-31T12:59:21Z
 
-**Task:** chore: lint and format entire codebase
-**Nonce:** 379079
+**Task:** docs: document deployment procedures
+**Nonce:** 984429

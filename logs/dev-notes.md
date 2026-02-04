@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0220 | 2026-01-31T12:59:21Z
+Entry 0221 | 2026-02-04T15:00:02Z
 
-**Task:** docs: document deployment procedures
-**Nonce:** 984429
+**Task:** fix: correct pagination offset calculation
+**Nonce:** 584670

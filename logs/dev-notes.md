@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0221 | 2026-02-04T15:00:02Z
+Entry 0222 | 2026-02-05T16:06:03Z
 
-**Task:** fix: correct pagination offset calculation
-**Nonce:** 584670
+**Task:** perf: cache expensive aggregation queries
+**Nonce:** 889651

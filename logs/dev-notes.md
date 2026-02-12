@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0224 | 2026-02-10T21:05:31Z
+Entry 0225 | 2026-02-12T11:26:17Z
 
-**Task:** fix: prevent duplicate event processing
-**Nonce:** 539879
+**Task:** feat: expose Prometheus metrics endpoint
+**Nonce:** 214178

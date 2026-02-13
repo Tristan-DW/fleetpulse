@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0225 | 2026-02-12T11:26:17Z
+Entry 0226 | 2026-02-13T17:18:44Z
 
-**Task:** feat: expose Prometheus metrics endpoint
-**Nonce:** 214178
+**Task:** feat: add soft delete support
+**Nonce:** 920104

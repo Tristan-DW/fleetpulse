@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0226 | 2026-02-13T17:18:44Z
+Entry 0227 | 2026-02-15T20:00:39Z
 
-**Task:** feat: add soft delete support
-**Nonce:** 920104
+**Task:** refactor: move validation into dedicated layer
+**Nonce:** 978636

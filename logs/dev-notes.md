@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0239 | 2026-03-04T13:51:46Z
+Entry 0240 | 2026-03-04T18:19:13Z
 
-**Task:** chore: remove unused feature flag code
-**Nonce:** 952341
+**Task:** feat: add idempotency key support
+**Nonce:** 251300

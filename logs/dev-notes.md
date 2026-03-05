@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0240 | 2026-03-04T18:19:13Z
+Entry 0241 | 2026-03-05T14:59:30Z
 
-**Task:** feat: add idempotency key support
-**Nonce:** 251300
+**Task:** fix: resolve null dereference in auth middleware
+**Nonce:** 222451

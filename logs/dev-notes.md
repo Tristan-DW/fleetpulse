@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0246 | 2026-03-11T16:02:15Z
+Entry 0247 | 2026-03-12T15:18:25Z
 
-**Task:** fix: handle connection pool exhaustion
-**Nonce:** 833352
+**Task:** docs: document deployment procedures
+**Nonce:** 916107

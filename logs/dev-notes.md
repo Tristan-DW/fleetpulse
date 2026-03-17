@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0249 | 2026-03-17T12:47:59Z
+Entry 0250 | 2026-03-17T19:33:46Z
 
-**Task:** feat: expose Prometheus metrics endpoint
-**Nonce:** 296124
+**Task:** fix: resolve null dereference in auth middleware
+**Nonce:** 757417
